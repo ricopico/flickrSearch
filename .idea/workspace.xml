@@ -172,7 +172,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
+    <option name="x" value="-1420" />
     <option name="y" value="944" />
     <option name="width" value="1400" />
     <option name="height" value="836" />
@@ -189,11 +189,6 @@
             <path>
               <item name="FlickrSearch" type="b2602c69:ProjectViewProjectNode" />
               <item name="FlickrSearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FlickrSearch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlickrSearch" type="462c0819:PsiDirectoryNode" />
-              <item name="pics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FlickrSearch" type="b2602c69:ProjectViewProjectNode" />
